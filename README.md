@@ -51,14 +51,14 @@ Alpaca API
 
 
 Savings Goal Calculation:
-![savings](./Screenshots/savaings_goals.png)
+![savings](./Screenshots/savings_goal.png)
 
 
 Monte Carlo Simulation:
-![beta](./Screenshots/monte_carlo.png)
+![monte carlo](./Screenshots/monte_carlo.png)
 10 year Simulations:
-![Ten_Year_Simulations](.Screenshots/Ten_Year_Simulation.png)
-![Thirty Year Simulation](.Screenshots/Thirty_Year_Simulation.png)
+![Ten_Year_Simulations](./Screenshots/Ten_Year_Simulation.png)
+![Thirty Year Simulation](./Screenshots/Thirty_Year_Simulation.png)
 
 Final Analysis: 
 I reviewed a current members portfolio holdings in which they were invested in crypto, stock and bond. We reviewed the portion in order to determine whether or not increasing stocks would have enough of an impact in order for the member to retire earlier
